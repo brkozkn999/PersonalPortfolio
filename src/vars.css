@@ -1,0 +1,29 @@
+:root {
+  /* Colours */
+  --color-text: #fff;
+  --color-primary: #576cbc;
+  --color-secondary: #19376d;
+  --color-dark: #0b2447;
+  --color-bg: #04152d;
+
+  /* Fonts */
+  --font-roboto: "Roboto";
+  --font-montserrat: "Montserrat"
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-secondary); 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-dark); 
+}

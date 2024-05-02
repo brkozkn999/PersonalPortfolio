@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/c++.png"
+  },
+  {
+    "title": "SpringBoot",
+    "imageSrc": "skills/spring-boot.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Postgre",
+    "imageSrc": "skills/postgres.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Angular",
+    "imageSrc": "skills/angular.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JS",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "git",
+    "imageSrc": "skills/git.png"
+  }
+]

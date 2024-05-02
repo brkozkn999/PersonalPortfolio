@@ -1,0 +1,24 @@
+[
+  
+  {
+    "title": "Real Time Chat App",
+    "imageSrc": "projects/project2.png",
+    "description": "This is a project made to connect people in a chat room.",
+    "skills": ["Spring Boot", "HTML", "CSS", "Java Script"],
+    "source": "https://github.com/brkozkn999/RealTimeChatApp"
+  },
+  {
+    "title": "URL Shortener App",
+    "imageSrc": "projects/project1.png",
+    "description": "This is a project made to shorten long and unsightly links to make them cleaner.",
+    "skills": ["Spring Boot", "Angular", "MySQL"],
+    "source": "https://github.com/brkozkn999/URLShortenerApp"
+  },
+  {
+    "title": "Task Manangement App",
+    "imageSrc": "projects/project3.png",
+    "description": "This project made to managers to assign and control tasks to employees and for employees to update their task status.",
+    "skills": ["Spring Boot", "Angular", "MySQL"],
+    "source": "https://github.com/brkozkn999/TaskManagementApp"
+  }
+]
