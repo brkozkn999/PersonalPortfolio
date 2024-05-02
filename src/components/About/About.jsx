@@ -29,7 +29,7 @@ export const About = () => {
               <h3>Backend Developer🗄️</h3>
               <p>
                 I have experience developing fast and optimised back-end systems
-                and API's
+                and API's.
               </p>
             </div>
           </li>
